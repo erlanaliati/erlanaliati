@@ -10,7 +10,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um profissional de TI com mais de 10 anos
 
 ## Experiência Profissional
 
-- **Analista de TI** | [Terram Soluções Agronómicas] | [05/07/2023] - Atualmente
+- **Analista de TI** | [Terram Soluções Agronómicas] | [05/07/2022] - Atualmente
  ## Responsabilidades:
 
 - **Suporte Técnico:**
